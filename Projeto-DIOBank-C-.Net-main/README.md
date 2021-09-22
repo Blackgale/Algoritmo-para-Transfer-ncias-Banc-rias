@@ -1,0 +1,2 @@
+# Projeto-DIOBank-C-.Net
+Projeto feito com o intuito de praticar a programação orientada a objetos em C#.net no Bootcamp Everis New Talents #2 .NET da DIO. O projeto consiste em uma aplicação console de transferências bancárias. Minha contribuição ao projeto com relação ao apresentado no bootcamp foi a adição da opção de excluir uma conta desde que ela não contenha nenhum fundo ou dívida (saldo negativo), além do tratamento de valores inválidos digitados pelo usuário ao invés de finalizar a execução na ocorrência de inputs inesperados.
